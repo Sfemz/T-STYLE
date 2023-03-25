@@ -125,14 +125,14 @@ echo " "
 pkg install figlet -y
 echo ""
 clear
-echo "                   "TODO LIDTL  | lolcat
+echo "                   "TODO LISTO | lolcat
 echo " "
 sleep 0.2
 clear
 sleep 0.2
-figlet -f big ' THANKS ' | lolcat
-figlet -f big '  FOR   ' | lolcat
-figlet -f big ' WAITING ' | lolcat
+figlet -f big ' GRACIAS ' | lolcat
+figlet -f big '  POR   ' | lolcat
+figlet -f big ' ESPERAR ' | lolcat
 
 echo "  ESPERA 5 SEGUNDOS, CIERRA TERMUX DESDE NOTIFICACIONES, Y VUELVE A ENTRAR
  " | lolcat
